@@ -21,12 +21,13 @@ This flashcard app allows users to create and manage their own flashcards for me
 
 To use this flashcard app, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/Mahmoud-Hijjeh/flash_card_app_django.git`
+1. Clone the repository to your local machine: 
+`git clone https://github.com/Mahmoud-Hijjeh/flash_card_app_django.git`.
 2. Install the required packages with `pip install -r requirements.txt`.
-3.Change into the directory: `cd flash_card_app`
-4.Create a virtual environment: `python3 -m venv venv`
-5.Activate the virtual environment: `source venv/bin/activate`
-6.Apply migrations: `python manage.py migrate`
+3.Change into the directory: `cd flash_card_app`.
+4.Create a virtual environment: `python3 -m venv venv`.
+5.Activate the virtual environment: `source venv/bin/activate`.
+6.Apply migrations: `python manage.py migrate`.
 7. Run the development server with `python manage.py runserver`.
 8. In your web browser, go to `http://127.0.0.1:8000/` to access the app.
 9. Create new flashcards, organize them with tags, and test your memory with the Leitner system.
