@@ -23,10 +23,10 @@ To use this flashcard app, follow these steps:
 
 1. Clone the repository to your local machine: 
 `git clone https://github.com/Mahmoud-Hijjeh/flash_card_app-django.git`.
-2. Install the required packages with `pip install -r requirements.txt`.
-3. Change into the directory: `cd flash_card_app`.
-4. Create a virtual environment: `python3 -m venv venv`.
-5. Activate the virtual environment: `source venv/bin/activate`.
+2. Change into the directory: `cd flash_card_app`.
+3. Create a virtual environment: `python3 -m venv venv`.
+4. Activate the virtual environment: `source venv/bin/activate`.
+5. Install the required packages with `pip install -r requirements.txt`.
 6. Apply migrations: `python manage.py migrate`.
 7. Run the development server with `python manage.py runserver`.
 8. In your web browser, go to `http://127.0.0.1:8000/` to access the app.
