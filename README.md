@@ -10,6 +10,13 @@ This flashcard app allows users to create and manage their own flashcards for me
 - Secure data handling with the use of the `{% csrf_token %}` template tag to prevent cross-site request forgery.
 - Option to use tags to categorize and organize flashcards.
 
+## Back-end
+- The back-end of the application is built using Django (Python Framework)
+
+## Frontend
+- The frontend of the application is built using the Bulma CSS framework for styling and HTML for the structure.
+- The dynamic content is generated using Django template code.
+- 
 ## Usage
 
 To use this flashcard app, follow these steps:
@@ -22,6 +29,14 @@ To use this flashcard app, follow these steps:
 
 ## Notes
 
-- This flashcard app was built using the Django framework.
 - This app is designed for personal use and has not been tested for large-scale deployment.
 - This is only a sample implementation and can be further developed and customized to meet specific needs.
+
+## License
+This project is licensed under the MIT License.
+
+![التقاط](https://user-images.githubusercontent.com/107920651/218190390-c309593e-fe3a-46bd-b42b-b265357ce543.PNG)
+![1](https://user-images.githubusercontent.com/107920651/218190433-6954815e-5122-4fb9-9d70-58c758e8c65c.PNG)
+![2](https://user-images.githubusercontent.com/107920651/218190475-be895fc6-b945-4ab4-bcfa-355f44992fc1.PNG)
+![3](https://user-images.githubusercontent.com/107920651/218190513-04b204a5-97a5-4dde-92dd-5e5ce2447767.PNG)
+![4](https://user-images.githubusercontent.com/107920651/218190533-60ccd9ec-3ce2-4883-bb0d-3c97986a6a65.PNG)
