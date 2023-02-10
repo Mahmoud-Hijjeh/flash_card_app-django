@@ -14,18 +14,22 @@ This flashcard app allows users to create and manage their own flashcards for me
 - The back-end of the application is built using Django (Python Framework)
 
 ## Frontend
-- The frontend of the application is built using the Bulma CSS framework for styling and HTML for the structure.
+- The frontend of the application is built using simple CSS for styling and HTML for the structure.
 - The dynamic content is generated using Django template code.
-- 
+
 ## Usage
 
 To use this flashcard app, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine: `git clone https://github.com/Mahmoud-Hijjeh/flash_card_app_django.git`
 2. Install the required packages with `pip install -r requirements.txt`.
-3. Run the development server with `python manage.py runserver`.
-4. In your web browser, go to `http://127.0.0.1:8000/` to access the app.
-5. Create new flashcards, organize them with tags, and test your memory with the Leitner system.
+3.Change into the directory: `cd flash_card_app`
+4.Create a virtual environment: `python3 -m venv venv`
+5.Activate the virtual environment: `source venv/bin/activate`
+6.Apply migrations: `python manage.py migrate`
+7. Run the development server with `python manage.py runserver`.
+8. In your web browser, go to `http://127.0.0.1:8000/` to access the app.
+9. Create new flashcards, organize them with tags, and test your memory with the Leitner system.
 
 ## Notes
 
