@@ -1,5 +1,12 @@
 # Flashcard Django App
 
+## Acknowledgements
+- This project is a part of the [Gaza Sky Geeks ](https://gazaskygeeks.com/) Training program.
+<p align="center">
+<img src="https://gazaskygeeks.com/wp-content/uploads/2020/05/gsg-website-logo-colored-280-50.png" width="40%">
+</p>
+
+## Introduction
 This flashcard app allows users to create and manage their own flashcards for memorizing new topics and learning new languages.
 
 ## Features
